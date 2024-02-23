@@ -1,0 +1,6 @@
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Setup\bin\Debug\DZ.SAMP.Setup.dll
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Setup\bin\Debug\DZ.SAMP.Setup.pdb
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Setup\obj\Debug\DZ.SAMP.Setup.csprojAssemblyReference.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Setup\obj\Debug\DZ.SAMP.Setup.csproj.CoreCompileInputs.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Setup\obj\Debug\DZ.SAMP.Setup.dll
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Setup\obj\Debug\DZ.SAMP.Setup.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcVGZ519IqubSwJ7i5ibU6P4aDWXFeNOrKOcz+v0lfUxjZljttAP/cG7JngJjUjzQNcd0yrgL+OmxL6tQxfkTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Niko\\source\\repos\\DZ.SAMP.Client\\DZ.SAMP.Announce.Linux\\DZ.SAMP.Announce.Linux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niko\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.8\\microsoft.netcore.app.runtime.linux-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\Niko\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.8\\microsoft.netcore.app.host.linux-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\Niko\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

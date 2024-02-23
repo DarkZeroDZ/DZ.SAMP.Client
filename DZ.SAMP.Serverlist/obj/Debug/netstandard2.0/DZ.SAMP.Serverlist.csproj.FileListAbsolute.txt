@@ -1,0 +1,4 @@
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Serverlist\obj\Debug\netstandard2.0\DZ.SAMP.Serverlist.csprojAssemblyReference.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Serverlist\obj\Debug\netstandard2.0\DZ.SAMP.Serverlist.AssemblyInfoInputs.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Serverlist\obj\Debug\netstandard2.0\DZ.SAMP.Serverlist.AssemblyInfo.cs
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Serverlist\obj\Debug\netstandard2.0\DZ.SAMP.Serverlist.csproj.CoreCompileInputs.cache

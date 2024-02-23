@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="DZ.SAMP.Client.UI.Views.SettingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:res="clr-namespace:DZ.SAMP.Client.Resources.Language"
+             mc:Ignorable="d" 
+             Height="250" Width="800">
+
+    <Grid>
+        <Grid VerticalAlignment="Top">
+            <Rectangle Height="55" Fill="{StaticResource DarkMainColor}"/>
+            <Label Content="{x:Static res:LauncherStrings.Settings}" FontSize="18" Margin="0,10" Foreground="White" HorizontalAlignment="Center"/>
+        </Grid>
+        <StackPanel VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="{x:Static res:LauncherStrings.SAInstallLocation}" 
+                   VerticalAlignment="Center" 
+                   HorizontalContentAlignment="Right"
+                   FontSize="16" 
+                   Width="250"
+                   Margin="10"/>
+                <TextBox Text="{Binding VM.VM.Settings.SingleplayerLocation, UpdateSourceTrigger=PropertyChanged}" 
+                     Width="400" Height="30" FontSize="12" Padding="0,1,0,0"
+                     Background="White" />
+                <Button Content="..." Foreground="White" Margin="20,10" Command="{Binding VM.SelectFolderCommand}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="{x:Static res:LauncherStrings.Language}" 
+                   VerticalAlignment="Center" 
+                   HorizontalContentAlignment="Right"
+                   FontSize="16" 
+                   Width="250"
+                   Margin="10,10,10,10"/>
+                <ComboBox ItemsSource="{Binding VM.Languages}" 
+                      SelectedItem="{Binding VM.Language, UpdateSourceTrigger=PropertyChanged}"
+                      Height="30" Width="400"/>
+            </StackPanel>
+        </StackPanel>
+        <Button Content="{x:Static res:LauncherStrings.Close}" Foreground="White" 
+                    HorizontalAlignment="Center" Click="CancelClick" 
+                    VerticalAlignment="Bottom"
+                    Margin="0,20"/>
+    </Grid>
+</UserControl>

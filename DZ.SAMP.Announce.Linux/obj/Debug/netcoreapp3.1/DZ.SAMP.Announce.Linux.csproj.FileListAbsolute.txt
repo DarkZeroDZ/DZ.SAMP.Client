@@ -1,0 +1,13 @@
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.exe
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.deps.json
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.runtimeconfig.json
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.runtimeconfig.dev.json
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.dll
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.pdb
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.csprojAssemblyReference.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.AssemblyInfoInputs.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.AssemblyInfo.cs
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.csproj.CoreCompileInputs.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.dll
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.pdb
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce.Linux\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.Linux.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\bin\Release\net45\linux-x64\announce.exe.config
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\bin\Release\net45\linux-x64\announce.exe
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\bin\Release\net45\linux-x64\announce.pdb
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\obj\Release\net45\linux-x64\DZ.SAMP.Announce.csprojAssemblyReference.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\obj\Release\net45\linux-x64\DZ.SAMP.Announce.AssemblyInfoInputs.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\obj\Release\net45\linux-x64\DZ.SAMP.Announce.AssemblyInfo.cs
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\obj\Release\net45\linux-x64\DZ.SAMP.Announce.csproj.CoreCompileInputs.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\obj\Release\net45\linux-x64\announce.exe
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Announce\obj\Release\net45\linux-x64\announce.pdb

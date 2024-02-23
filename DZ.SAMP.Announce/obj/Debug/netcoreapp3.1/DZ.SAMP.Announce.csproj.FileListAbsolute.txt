@@ -1,0 +1,13 @@
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.exe
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.deps.json
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.runtimeconfig.json
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.runtimeconfig.dev.json
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.dll
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\bin\Debug\netcoreapp3.1\DZ.SAMP.Announce.pdb
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.csprojAssemblyReference.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.AssemblyInfoInputs.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.AssemblyInfo.cs
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.csproj.CoreCompileInputs.cache
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.dll
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.pdb
+C:\Users\Niko\source\repos\DZ.SAMP.Client\DZ.SAMP.Server\obj\Debug\netcoreapp3.1\DZ.SAMP.Announce.genruntimeconfig.cache

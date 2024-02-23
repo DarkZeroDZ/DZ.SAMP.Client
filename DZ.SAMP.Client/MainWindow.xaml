@@ -1,0 +1,17 @@
+﻿<Window x:Class="DZ.SAMP.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Icon="pack://application:,,,/Resources/app_hd.ico"
+        Title="San Andreas Multiplayer Launcher" Height="750" Width="1050" 
+        WindowStartupLocation="CenterScreen"
+        MinHeight="750" MinWidth="1050">
+
+    <materialDesign:DialogHost IsOpen="{Binding IsShow}" DialogContent="{Binding DialogObject}">
+        <Frame Content="{Binding CurrentPage}" NavigationUIVisibility="Hidden"/>
+    </materialDesign:DialogHost>
+
+</Window>

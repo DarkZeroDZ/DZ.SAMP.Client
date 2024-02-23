@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="DZ.SAMP.Client.UI.Views.ConnectorView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:res="clr-namespace:DZ.SAMP.Client.Resources.Language"
+             mc:Ignorable="d" 
+             Background="White"
+             Height="400" Width="500">
+    <Grid>
+        <StackPanel>
+            <Grid VerticalAlignment="Top">
+                <Rectangle Height="55" Fill="{StaticResource DarkMainColor}"/>
+                <Label Content="{Binding VM.Server.Name}" FontSize="18" Margin="0,10" Foreground="White" HorizontalAlignment="Center"/>
+            </Grid>
+
+            <StackPanel VerticalAlignment="Center" Margin="0,20,0,0">
+                <Label Content="{x:Static res:LauncherStrings.PasswordRequired}"
+                   Margin="20,0,0,10"
+               FontWeight="Bold" Foreground="Red"
+               Visibility="{Binding VM.Server.IsPassword, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+
+                <StackPanel Orientation="Horizontal"
+                   Margin="20,0,0,0">
+                    <Label Content="IP Address:"/>
+                    <TextBox Text="{Binding VM.Server.FormattedIP, Mode=OneWay}" 
+                             Foreground="DarkSlateGray"
+                             Margin="0,4,0,0">
+                        <TextBox.Style>
+                            <Style TargetType="TextBox">
+                                <Setter Property="IsReadOnly" Value="True" />
+                                <Setter Property="BorderThickness" Value="0" />
+                                <Setter Property="TextWrapping" Value="Wrap" />
+                            </Style>
+                        </TextBox.Style>
+                    </TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal"
+                   Margin="20,0,0,0">
+                    <Label Content="Players:"/>
+                    <Label Content="{Binding VM.Server.FormattedPlayers}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal"
+                   Margin="20,0,0,0">
+                    <Label Content="Ping:"/>
+                    <Label Content="{Binding VM.Server.Ping}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal"
+                   Margin="20,0,0,0">
+                    <Label Content="Mode:"/>
+                    <Label Content="{Binding VM.Server.Mode}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal"
+                   Margin="20,0,0,0">
+                    <Label Content="Language:"/>
+                    <Label Content="{Binding VM.Server.Language}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="20,20,20,0">
+                    <Label Content="{x:Static res:LauncherStrings.ServerPassword}" Width="120"/>
+                    <TextBox Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}" Width="335"
+                     IsEnabled="{Binding VM.Server.IsPassword}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="20,5,20,0">
+                    <Label Content="{x:Static res:LauncherStrings.RconPassword}" Width="120"/>
+                    <TextBox Text="{Binding RconPassword, UpdateSourceTrigger=PropertyChanged}" Width="335"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+        <DockPanel Margin="80,20" VerticalAlignment="Bottom">
+            <Button Content="{x:Static res:LauncherStrings.Connect}" Foreground="White" Click="ConnectClick"/>
+            <Button Content="{x:Static res:LauncherStrings.Cancel}" Foreground="White" HorizontalAlignment="Right" Click="CancelClick"/>
+        </DockPanel>
+    </Grid>
+</UserControl>
